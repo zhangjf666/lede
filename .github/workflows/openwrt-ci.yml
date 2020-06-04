@@ -154,6 +154,7 @@ jobs:
           CONFIG_PACKAGE_transmission-daemon-openssl=y
           CONFIG_PACKAGE_transmission-remote-openssl=y
           CONFIG_PACKAGE_transmission-web=y
+          CONFIG_PACKAGE_transmission-web-control=y
           CONFIG_PACKAGE_ttyd=y
           CONFIG_PACKAGE_webui-aria2=y
           CONFIG_PACKAGE_aria2=y
